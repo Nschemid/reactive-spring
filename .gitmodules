@@ -1,3 +1,0 @@
-[submodule "reservation-app"]
-path = reservation-app
-url = https://github.com/Nschemid/reactive-spring/reservation-app
